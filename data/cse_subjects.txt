@@ -1,0 +1,276 @@
+5th Semester
+Code	Subject	Type	Credits	L-T-P
+CS3001-1	Computer Network and Communication	IPCC	4	3-0-2
+CS2004-1	Operating Systems	IPCC	4	3-0-2
+CS3003-1	Theory of Computation	PCC	3	3-0-0
+CS3603-1	Java and Spring Framework	Lab	1	0-0-2
+CSxxxx-x	Professional Elective–I	PEC	3	3-0-0
+HU1006-1	Introduction to IPR	HSMC	1	1-0-0
+CS3601-1	Back End Development	AEC	2	1-0-2
+HU1007-1	Social Connect & Responsibility	AEC	1	1-0-0
+UM1003-2	Employability Skill Development	AEC	1	1-0-0
+
+NMAMIT - COMPUTER SCIENCE AND ENGINEERING
+THIRD YEAR - SEMESTER 5
+ACADEMIC INFORMATION
+
+Institution:
+NMAM Institute of Technology (NMAMIT), Nitte
+
+University:
+Nitte (Deemed to be University)
+
+Program:
+Bachelor of Technology (B.Tech)
+
+Branch:
+Computer Science and Engineering (CSE)
+
+Year:
+Third Year
+
+Semester:
+Semester 5
+
+Academic Batch:
+2025-2029
+
+==================================================
+SEMESTER 5 - COMPUTER SCIENCE AND ENGINEERING
+==================================================
+
+Semester:
+5
+
+Year:
+Third Year
+
+Program:
+B.Tech Computer Science and Engineering
+
+The fifth semester forms part of the third year of the
+Bachelor of Technology program in Computer Science and
+Engineering.
+
+The Semester 5 curriculum contains professional core
+courses, practical/laboratory courses and other curriculum
+components prescribed by NMAMIT under the applicable
+academic scheme.
+
+==================================================
+CORE COMPUTER SCIENCE AREAS
+==================================================
+
+The fifth semester of Computer Science and Engineering
+generally focuses on advanced computing and software
+engineering concepts.
+
+Important areas that students may encounter in the
+third-year CSE curriculum include:
+
+1. Algorithms and problem solving
+2. Operating systems
+3. Computer networks
+4. Database systems
+5. Software engineering
+6. Artificial intelligence and machine learning
+7. Web and application development
+8. Data analytics
+9. Computer security
+10. Practical programming and laboratory work
+
+IMPORTANT:
+The exact course names, course codes, credits, elective
+choices and examination details must be taken from the
+official NMAMIT syllabus applicable to the student's batch.
+
+==================================================
+SEMESTER 5 SUBJECT INFORMATION
+==================================================
+
+Students should consult the official NMAMIT CSE Semester 5
+curriculum for the following information:
+
+1. Professional Core Courses
+   - Course name
+   - Course code
+   - Course credits
+   - Lecture hours
+   - Tutorial hours
+   - Practical hours
+   - Course type
+
+2. Laboratory Courses
+   - Laboratory name
+   - Laboratory code
+   - Credits
+   - Practical hours
+   - Examination pattern
+
+3. Elective Courses
+   - Elective group
+   - Available elective subjects
+   - Course codes
+   - Credits
+
+4. Other Curriculum Components
+   - Course title
+   - Course code
+   - Credits
+   - Assessment method
+
+==================================================
+QUESTIONS THE ACADEMIC ASSISTANT SHOULD ANSWER
+==================================================
+
+Question:
+What subjects are there in 5th semester CSE?
+
+Answer:
+The fifth semester is part of the third year of the B.Tech
+Computer Science and Engineering program at NMAMIT. The
+exact Semester 5 subject list should be obtained from the
+official syllabus applicable to the student's academic batch.
+
+Question:
+Which year is Semester 5?
+
+Answer:
+Semester 5 is part of the third year of the B.Tech program.
+
+Question:
+What branch is this syllabus for?
+
+Answer:
+This information is for Bachelor of Technology in Computer
+Science and Engineering.
+
+Question:
+What is the institution?
+
+Answer:
+NMAM Institute of Technology (NMAMIT), Nitte.
+
+Question:
+What university is NMAMIT associated with for the
+2025-2029 NDU curriculum?
+
+Answer:
+Nitte (Deemed to be University).
+
+Question:
+What type of courses are included in Semester 5?
+
+Answer:
+The Semester 5 curriculum contains professional/core
+courses, practical or laboratory courses and other
+curriculum components as specified by the applicable
+NMAMIT syllabus.
+
+Question:
+Are practical subjects included?
+
+Answer:
+Practical and laboratory components can be part of the
+Semester 5 curriculum. Students should refer to the official
+batch-specific syllabus for the exact laboratory subjects,
+codes and credits.
+
+Question:
+Are electives included?
+
+Answer:
+Elective courses may be prescribed as part of the curriculum.
+The exact elective groups and available subjects depend on
+the applicable NMAMIT syllabus.
+
+==================================================
+ACADEMIC ASSISTANT RESPONSE RULE
+==================================================
+
+When a student asks about a specific Semester 5 subject,
+the assistant must use information available in the
+knowledge base.
+
+The assistant must not invent:
+
+- Subject names
+- Subject codes
+- Credits
+- Faculty names
+- Examination marks
+- Internal assessment marks
+- Semester total credits
+- Elective subjects
+- Laboratory names
+
+If the exact information is not available in the knowledge
+base, the assistant should clearly state:
+
+"That specific information is not available in the current
+knowledge base. Please refer to the official NMAMIT syllabus
+for the applicable academic batch."
+
+==================================================
+STUDENT PROFILE
+==================================================
+
+Target Student:
+Third Year CSE Student
+
+Academic Year:
+Third Year
+
+Semester:
+5
+
+Branch:
+Computer Science and Engineering
+
+Institution:
+NMAM Institute of Technology (NMAMIT), Nitte
+
+==================================================
+USEFUL STUDENT QUESTIONS
+==================================================
+
+Students can ask:
+
+1. What is Semester 5?
+2. Which year does Semester 5 belong to?
+3. What branch does this syllabus cover?
+4. What subjects are included in Semester 5?
+5. What are the Semester 5 core subjects?
+6. What are the Semester 5 practical subjects?
+7. What are the Semester 5 elective subjects?
+8. What are the subject codes?
+9. How many credits does each subject have?
+10. What is the total Semester 5 credit requirement?
+11. Which subjects have laboratory components?
+12. What is the examination pattern?
+13. What are the internal assessment requirements?
+14. What are the Semester 5 learning objectives?
+15. What are the course outcomes?
+16. Give me a Semester 5 study plan.
+17. Which Semester 5 subjects should I study first?
+18. Create a revision plan for my Semester 5 exams.
+19. Explain a Semester 5 subject.
+20. Summarize my Semester 5 syllabus.
+
+==================================================
+SOURCE INFORMATION
+==================================================
+
+Source:
+Official NMAMIT Department of Computer Science and
+Engineering website.
+
+The NMAMIT CSE department page provides syllabus links
+for multiple batches, including the 2025-2029 batch.
+
+For exact course-level information, use the official
+NMAMIT syllabus applicable to the student's batch.
+
+==================================================
+END OF SEMESTER 5 INFORMATION
+==================================================

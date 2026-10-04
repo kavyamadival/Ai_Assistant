@@ -1,0 +1,38 @@
+@media (max-width: 900px) {
+
+    h1 {
+        font-size: 28px !important;
+        padding: 22px;
+    }
+
+    .block-container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    button[data-baseweb="tab"] {
+        font-size: 12px !important;
+        padding: 10px 8px !important;
+    }
+
+}
+
+
+/* ---------- SCROLLBAR ---------- */
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #eef5fb;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8db8d8;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #005b96;
+}

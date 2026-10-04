@@ -1,0 +1,144 @@
+STUDENTS OPTING FOR 2+2 TWINNING PROGRAM OF PSU SHALL REGISTER FOR 
+THE FOLLOWING COURSES DURING  1st to 4th SEMESTERS 
+Table of Core and Major Specific Courses to be completed at NMAMIT 
+NMAMIT Bachelor of Computer Science (B.Tech CS) Program to the PSU 
+Bachelor of Science in Computer Science (COMP_BS) 
+https://bulletins.psu.edu/undergraduate/colleges/capital/computer-science-bs/ 
+NMAMIT 
+Number 
+Subject NMAMIT 
+Credits 
+PSU Course 
+Equivalent 
+PSU 
+Credits 
+CS1004-1 Introduction to C 
+Programming 3 CMPSC 131: 
+Introduction to 
+Prog. Techniques 
+3 
+CS1005-1 Introduction to   
+Python Programming 3 
+CS2001-1 Data Structures 
+4 
+CMPSC 132: 
+Programming 
+and Computation 
+II: data structures 
+3 
+CS2002-1 Object Oriented 
+Programming 4 CMPSC 221: OOP 
+with Web Based 
+Applications  3 CS1102-1 Front End Web 
+Development 3 
+CS2101-1 Computer 
+Organization & 
+Architecture  
+3 
+CMPSC 312: 
+Computer 
+Organization 
+and 
+Architecture  
+3 
+CS3005-1 Microprocessor and 
+embedded systems  4 
+IS1603-1 UNIX and 
+Shell 
+Programming 3 
+CMPSC 
+300/400 
+Technical 
+Elective 
+3 
+MA1007-1 Discrete Mathematics 
+& Transform 
+Techniques 4 
+CMPSC 360: 
+Discrete 
+Mathematics 3 
+EC1002-1 Applied Digital Logic 
+Design  3 CMPSC 1xx 2 
+MA1009-1 Engineering 
+Mathematics-I 4 
+MATH 
+140: Calc 
+with 
+Analytical 
+Geometry 
+I 
+4 
+MA1010-1 Engineering 
+Mathematics-II 4 MATH 
+141: Calc 
+with 
+Analytical 
+Geometry 
+II 
+4 MA2011-1 Engineering 
+Mathematics-III 4 
+MA2001-1 Statistics and 
+Probability Theory 3 
+MATH/STAT 
+318: Elementary 
+Probability  
+3 
+MA2012-1 Engineering 
+Mathematics-IV 3 
+MATH 220: 
+Matrices 2 
+CV1003-1 Elements of Civil 
+Engineering and 
+Engineering 
+Mechanics 
+4 
+PHYS 211: 
+General Physics: 
+Mechanics  4 
+PH1004-1 Quantum Computing 
+and Modern Physics  
+4 
+GN credits 3.5 
+PH1002-1 Engineering Physics III 3 
+HU1501-1 Elements of Yoga 3 Health and 
+Wellness – 
+GHW 
+3 HU1508-1 Principles of Physical 
+Education  3 
+HU1509-1 Indian Culture- 
+Yakshagana  
+3 Art – GA 
+4.5 HU1510-1 Indian Culture
+Music  3 
+HU1506-1 Overview of Indian 
+Culture 3 
+Humanities – 
+GH  3 
+HU1511-1 Engineering Ethics 
+3 
+ENGR 320Y 
+Design for 
+Global Society 
+3 
+MG1507-1 Engineering 
+Economics & 
+Financial 
+Management 
+3 
+GS/US/IL 
+3 
+HU1512-1 
+Art of 
+Communication and 
+Interpersonal Skills  
+OR 
+TECHNICAL ENGLISH 
+3 
+GS/Interdomain 
+3 
+HU1001-1* 
+2 
+HU2001-1* 
+ENHANCING SELF
+COMPETENCE 
+2
